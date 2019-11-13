@@ -17,6 +17,7 @@ class Shoe
     @brand = brand
     #  if BRANDS.include?(brand)
         BRANDS << brand
+        puts BRANDS
     #  end
   end
 
