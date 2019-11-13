@@ -14,12 +14,12 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
-  def brand=(brand)
-      @brand = brand
-    #  if BRANDS.include?(brand)
-        BRANDS << brand
-        puts BRANDS
-    #  end
-  end
+  # def brand=(brand)
+  #     @brand = brand
+  #   #  if BRANDS.include?(brand)
+  #       BRANDS << brand
+  #       puts BRANDS
+  #   #  end
+  # end
 
 end
